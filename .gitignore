@@ -11,6 +11,8 @@ venv/
 
 # MLflow
 mlruns/
+mlflow.db
+*.db
 
 # OS
 .DS_Store
